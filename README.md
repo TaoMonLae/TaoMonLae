@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Built+the+Mon+(mnw)+keyboard+now+default+in+Ubuntu;Contributing+Mon+translations+for+Ubuntu+on+Launchpad;he%2Fhim+%C2%B7+Kuala+Lumpur%2C+Malaysia" alt="Typing SVG" />
 
 <p>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMjAwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjIwMCI+CiAgPHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNGRjAwMDAiLz4KICA8ZyBmaWxsPSIjRjFGNzAwIj4KICAgIDxlbGxpcHNlIGN4PSIxNTAiIGN5PSIxMjIiIHJ4PSI0NiIgcnk9IjI4Ii8+CiAgICA8cGF0aCBkPSJNMTE4LDExMCBROTYsNzggMTE4LDUyIFExMzIsNDAgMTUwLDQ4IFExMzAsNTggMTI4LDg4IFExMjYsMTAwIDEyOCwxMTIgWiIvPgogICAgPGNpcmNsZSBjeD0iMTIyIiBjeT0iNTAiIHI9IjEzIi8+CiAgICA8cGF0aCBkPSJNMTExLDQ4IEw5Miw0NCBMMTExLDU2IFoiLz4KICAgIDxwYXRoIGQ9Ik0xODYsMTA4IFEyMTQsOTYgMjA4LDc4IFExOTAsOTAgMTgwLDExMiBaIi8+CiAgICA8cGF0aCBkPSJNMTIwLDE0NSBMMTEyLDE2OCBMMTE4LDE2OCBMMTI0LDE0OCBaIi8+CiAgICA8cGF0aCBkPSJNMTQ4LDE0OCBMMTQ2LDE3MCBMMTUyLDE3MCBMMTU0LDE0OCBaIi8+CiAgPC9nPgogIDxjaXJjbGUgY3g9IjEyNiIgY3k9IjQ3IiByPSIyIiBmaWxsPSIjRkYwMDAwIi8+Cjwvc3ZnPgo=" width="54" title="Mon flag"/>
-  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Mon_State_%282018%29.svg" width="54" title="Mon flag"/>  &nbsp;&nbsp;
   🇲🇲 Myanmar (Mon) &nbsp;·&nbsp; 🇲🇾 Kuala Lumpur, Malaysia
 </p>
 
