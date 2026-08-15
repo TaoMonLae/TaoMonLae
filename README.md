@@ -24,6 +24,7 @@ from: Myanmar (Mon)
 location: Kuala Lumpur, Malaysia
 built: Mon (mnw) keyboard layout — default input method in Ubuntu & other Linux distros
 translating: Ubuntu (Mon/mnw) on Launchpad — launchpad.net/~htetminaung2018
+currently_building: mrlc-lms (Mon Refugee Learning Centre GED LMS) & lucky-draw-pro (raffle draw app)
 fun_fact: "I'm nothing. Just coding for hobby and for fun."
 ```
 
