@@ -50,9 +50,12 @@ fun_fact: "I'm nothing. Just coding for hobby and for fun."
 
   <div align="center">
 
+  <p>
     Thanks for stopping by.
-
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,100:F97316&height=90&section=footer" width="100%"/>
+  </p>
 
-    </div>
+  </div>
+  
+
     
