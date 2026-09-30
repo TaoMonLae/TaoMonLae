@@ -1,3 +1,5 @@
+![Light banner reading mnw / web with Mon keyboard keys](assets/profile-header.svg)
+
 # Tao Mon Lae
 
 **Full-stack web developer** · Mon, Myanmar → Kuala Lumpur, Malaysia
