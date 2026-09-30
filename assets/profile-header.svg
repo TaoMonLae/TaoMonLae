@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="104" viewBox="0 0 960 104" role="img" aria-labelledby="title desc">
+  <title id="title">Mon language to web development</title>
+  <desc id="desc">A light typographic banner with a small Mon keyboard motif.</desc>
+  <rect x="0.5" y="0.5" width="959" height="103" rx="8" fill="#f7f9f8" stroke="#d8e0dd"/>
+  <rect x="0" y="0" width="4" height="104" fill="#c96b49"/>
+  <text x="28" y="52" fill="#1d2925" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="27" font-weight="600" letter-spacing="-1">mnw <tspan fill="#81918a">/</tspan> web</text>
+  <text x="30" y="76" fill="#53645d" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2.1">LANGUAGE · LEARNING · SOFTWARE</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="600" text-anchor="middle">
+    <rect x="738" y="27" width="56" height="50" rx="5" fill="#ffffff" stroke="#c96b49"/>
+    <rect x="804" y="27" width="56" height="50" rx="5" fill="#ffffff" stroke="#cbd5d0"/>
+    <rect x="870" y="27" width="56" height="50" rx="5" fill="#ffffff" stroke="#cbd5d0"/>
+    <text x="766" y="59" fill="#bd5f3f">M</text>
+    <text x="832" y="59" fill="#506159">N</text>
+    <text x="898" y="59" fill="#506159">W</text>
+  </g>
+</svg>
